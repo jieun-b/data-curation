@@ -1,11 +1,11 @@
-# 🎥 data_curation
+# 🎥 Data Curation
 
 This repository provides simple tools for filtering and extracting dynamic video sequences using **optical flow magnitude**.
 
 Originally developed for the **VoxCeleb** dataset, but applicable to any frame-level video dataset with consistent naming (e.g., `video_name/frame.png`).
 
 
-## 🔧 Tools
+## 📄 Scripts Overview
 
 - **`clip_level_filtering.py`**  
   Extracts dynamic clips using a sliding window and merges overlapping segments.  
@@ -20,7 +20,7 @@ Originally developed for the **VoxCeleb** dataset, but applicable to any frame-l
   Output: `optical_flow_threshold_plot.png`
 
 
-## 📁 Expected Input Format
+## 📁 Input Format
 
 
 ```
@@ -32,7 +32,7 @@ Originally developed for the **VoxCeleb** dataset, but applicable to any frame-l
 ```
 
 
-## 🛠️ Usage
+## 🚀 Run scripts
 
 Edit the `ROOT_DIR` and `THRESHOLD` values in each script, then run:
 
