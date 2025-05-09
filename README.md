@@ -4,7 +4,6 @@ This repository provides simple tools for filtering and extracting dynamic video
 
 Originally developed for the **VoxCeleb** dataset, but applicable to any frame-level video dataset with consistent naming (e.g., `video_name/frame.png`).
 
----
 
 ## 🔧 Tools
 
@@ -20,7 +19,6 @@ Originally developed for the **VoxCeleb** dataset, but applicable to any frame-l
   Plots the number of videos above each threshold to guide cutoff selection.  
   Output: `optical_flow_threshold_plot.png`
 
----
 
 ## 📁 Expected Input Format
 
@@ -33,7 +31,6 @@ Originally developed for the **VoxCeleb** dataset, but applicable to any frame-l
 │   └── ...
 ```
 
----
 
 ## 🛠️ Usage
 
