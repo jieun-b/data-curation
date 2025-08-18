@@ -1,4 +1,4 @@
-# 🎥 Data Curation
+# Data Curation
 
 This repository provides simple tools for filtering and extracting dynamic video sequences using **optical flow magnitude**.
 
